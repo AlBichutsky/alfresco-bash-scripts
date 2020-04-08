@@ -1,0 +1,2 @@
+SELECT DISTINCT 'activiti$' + [PROC_INST_ID_]
+FROM [DB_NAME].[dbo].[ACT_HI_PROCINST]
